@@ -1,7 +1,7 @@
 export const contactConfig = {
   title: "Contact",
   description: "Get in touch with me for collaboration opportunities, questions, or just to say hello. I'm always open to discussing new projects and ideas.",
-  email: "your.email@example.com",
+  email: "chenxuvip@gmail.com",
   phone: "+1 (555) 123-4567",
   address: "123 Main Street, City, Country",
   social: [
@@ -17,7 +17,7 @@ export const contactConfig = {
     },
     {
       name: "GitHub",
-      url: "https://github.com/yourusername",
+      url: "https://github.com/295444020",
       icon: "github"
     }
   ]
