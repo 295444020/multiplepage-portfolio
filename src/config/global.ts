@@ -28,7 +28,7 @@ export const globalConfig = {
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2026 Jacky Chen. All rights reserved.",
+    copyright: "© 2026 Jacky Chen's Blog. All rights reserved.",
     social: {
       twitter: "https://x.com/TencentCloudEO",
       github: "https://github.com/295444020",
