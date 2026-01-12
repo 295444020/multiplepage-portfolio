@@ -1,8 +1,8 @@
 export const globalConfig = {
   site: {
     name: "Your Portfolio Name",
-    author: "Your Name",
-    description: "A brief description of your portfolio website",
+    author: "Jacky Chen",
+    description: "Jacky Chen's Blog",
     url: "/"
   },
   navigation: {
@@ -28,11 +28,11 @@ export const globalConfig = {
   },
   footer: {
     aria: "Footer Navigation",
-    copyright: "© 2025 Your Name. All rights reserved.",
+    copyright: "© 2026 Jacky Chen. All rights reserved.",
     social: {
       twitter: "https://x.com/TencentCloudEO",
-      github: "https://github.com/TencentEdgeOne",
-      email: "media_service@tencent.com"
+      github: "https://github.com/295444020",
+      email: "chenxuvip@gmail.com"
     }
   }
 } as const; 
