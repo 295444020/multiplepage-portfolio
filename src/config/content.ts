@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Jacky Chen's Portfolio",
+  name: "Jacky Chen's Blog",
   description: "A showcase of my work and thoughts",
   nav: {
     home: "Home",
@@ -9,7 +9,7 @@ export const siteConfig = {
   },
   home: {
     greeting: "Hello, I'm Jacky.",
-    description: "A passionate frontend developer with a keen eye for design and a love for creating beautiful, functional web experiences.",
+    description: "Hello everyone, I am an IT OPS engineer. I am interested in researching hardware, front-end, AI, etc. I hope to communicate with all of you on this platform.",
     buttons: {
       viewProjects: "View Projects",
       readPosts: "Read Posts"
