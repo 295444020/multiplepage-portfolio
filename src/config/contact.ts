@@ -2,8 +2,8 @@ export const contactConfig = {
   title: "Contact",
   description: "Get in touch with me for collaboration opportunities, questions, or just to say hello. I'm always open to discussing new projects and ideas.",
   email: "chenxuvip@gmail.com",
-  phone: "+1 (555) 123-4567",
-  address: "123 Main Street, City, Country",
+  phone: "+86 18998900896",
+  address: "Baoan, Shenzhen, Guangdong, China",
   social: [
     {
       name: "Twitter",
